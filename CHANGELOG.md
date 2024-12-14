@@ -1,5 +1,19 @@
 # @changesets/action
 
+## 1.4.9
+
+### Patch Changes
+
+- [#415](https://github.com/changesets/action/pull/415) [`57ab80c`](https://github.com/changesets/action/commit/57ab80c61104c270bebc125910ae32da3a5aca46) Thanks [@benmccann](https://github.com/benmccann)! - Improve error message when attempting to publish without publish script defined
+
+## 1.4.8
+
+### Patch Changes
+
+- [#393](https://github.com/changesets/action/pull/393) [`48ab0d2`](https://github.com/changesets/action/commit/48ab0d2f2e77ae169182d022591ef5c18c931ff2) Thanks [@s0](https://github.com/s0)! - Ensure the PR remains open when updated
+
+- [#393](https://github.com/changesets/action/pull/393) [`48ab0d2`](https://github.com/changesets/action/commit/48ab0d2f2e77ae169182d022591ef5c18c931ff2) Thanks [@s0](https://github.com/s0)! - Switch to cheaper API for querying existing PRs
+
 ## 1.4.7
 
 ### Patch Changes
